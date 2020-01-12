@@ -7,11 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d28efb-e5e6-4080-9957-146448a9a1f7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/DiscordCacheToImage-1.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DiscordCacheToImage-1.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/statistics/CopiedFileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/statistics/CopiedFileCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-imageIdent.ImageIdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-imageIdent.ImageIdentifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/imageIdent.ImageIdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/imageIdent.ImageIdentifierTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578830162341</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update to 1.1">
+      <created>1578833144543</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578833144544</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
