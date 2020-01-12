@@ -11,6 +11,6 @@
 
 >YouTube Tutorial:
 
-<a href="https://youtu.be/Q1_Mu4GNLHo" target="_blank">
+<a target="_blank" rel="noopener noreferrer" href="https://youtu.be/Q1_Mu4GNLHo">
 <img src="https://raw.githubusercontent.com/GhostJumper/DiscordCache2Image/master/readme/images/DiscordCache2Img.jpg" width=100%>
 </a>
