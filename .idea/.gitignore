@@ -259,3 +259,5 @@ buildNumber.properties
 *lol
 
 # End of https://www.gitignore.io/api/test,java,maven,intellij,intellij+iml
+/$CACHE_FILE$
+/$PRODUCT_WORKSPACE_FILE$
