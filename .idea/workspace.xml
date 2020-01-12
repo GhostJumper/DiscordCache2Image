@@ -7,29 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26d28efb-e5e6-4080-9957-146448a9a1f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/conversion/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filesAndFolders/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/filesAndFolders/GetDirs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/statistics/CopiedFileCounter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fileManagement/FileCopy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/imageIdent/ImageIdentifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imageIdent/ImageIdentifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/fileManagement/FileCopyTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DiscordCacheToImage-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DiscordCacheToImage-1.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/DiscordCacheToImage-1.1-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Manager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/fileManagement/FileCopy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-fileManagement.FileCopyTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/statistics/CopiedFileCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/statistics/CopiedFileCounter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-imageIdent.ImageIdentifierTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-imageIdent.ImageIdentifierTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/fileManagement.FileCopyTest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/imageIdent.ImageIdentifierTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/imageIdent.ImageIdentifierTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/fileManagement/FileCopyTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578824562148</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update to 1.1">
+      <created>1578830162341</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578830162341</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,6 +227,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="update to 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update to 1.1" />
   </component>
 </project>
