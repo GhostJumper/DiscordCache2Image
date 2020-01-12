@@ -12,5 +12,5 @@
 >YouTube Tutorial:
 
 <a href="https://youtu.be/Q1_Mu4GNLHo">
-<img src="https://img.youtube.com/vi/Q1_Mu4GNLHo/0.jpg" width=100%>
+<img src="https://raw.githubusercontent.com/GhostJumper/DiscordCache2Image/master/readme/images/DiscordCache2Img.jpg" width=100%>
 </a>
