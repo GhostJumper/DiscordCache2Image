@@ -1,13 +1,30 @@
-import fileManagement.FileCopy;
+import conversion.Converter;
+import filesAndFolders.GetDirs;
+import statistics.CopiedFileCounter;
 
 public class Manager {
     public static void main(String[] args) {
-        try {
-            new FileCopy().copyAllAndRename(args[0],args[1]);
-        } catch (Exception e) {
-            e.printStackTrace();
+        new Manager(args);
+    }
 
-            System.out.println("Plz enter path");
-        }
+    public Manager(String[] args) {
+        argsManager(args);
+    }
+
+    private void argsManager(String[] args) {
+        if (args.length == 1) {
+
+            if (args[0].equals("-h") || args[0].equals("-help")) {
+                System.out.println("Enter the folderpath of the folder you want the images to be in");
+            } else {
+                copy(args[0]);
+            }
+
+        } else System.out.println("use -h or -help for help");
+    }
+
+    private void copy(String path) {
+        new Converter().copyAllAndRename(GetDirs.getDiscordCachePath(), path);
+        System.out.println("Copied " + CopiedFileCounter.get() + " images");
     }
 }
