@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/src/main/java/Manager.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/fileManagement/FileCopy.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/main/java/imageIdent/ImageIdentifier.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/test/java/fileManagement/FileCopyTest.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/test/java/imageIdent/ImageIdentifierTest.java" charset="ISO-8859-1" />
+  </component>
+</project>
